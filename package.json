@@ -1,0 +1,19 @@
+{
+  "name": "check-pull",
+  "version": "1.0.0",
+  "description": "pull request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarath-Ra/check-pull.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarath-Ra/check-pull/issues"
+  },
+  "homepage": "https://github.com/Sarath-Ra/check-pull#readme"
+}
